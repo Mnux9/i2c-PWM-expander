@@ -1,9 +1,7 @@
-# Morse
+# I2CPWM
 
-Arduino library to send Morse Code dots and dashes on a specified pin.
+Arduino library to easily set PWM outputs on my i2c PWM expander
 
 ## Description
 
-This is a simple Arduino library used to demonstrate how you can extend the functionality of Arduino.
-
-This library example is used in the [Writing a Library for Arduino tutorial](https://docs.arduino.cc/learn/contributions/arduino-creating-library-guide).
+[https://mnux.xyz/p/i2c-PWM/](https://mnux.xyz/p/i2c-PWM/)
